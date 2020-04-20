@@ -2,7 +2,7 @@
 --os dados incorretos tbm pode ser pq o msdb esta corrompido
 
 use msdb
-
+-- teste
 
 http://msdn.microsoft.com/pt-br/library/ms188328.aspx
 --exclui todas entradas dos backups da data do parametro para tras
